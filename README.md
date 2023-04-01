@@ -1,17 +1,24 @@
-## Hi there 👋, my name is Gbangbola oluwagbemiga, i am a frontend developer.
-### 🔭 I’m currently working on my portfolio ...
-###🌱 I’m currently learning React.js ...
+<a href=null><img src="https://komarev.com/ghpvc/?username=Gbangbolaoluwagbemiga&color=dc143c" align=right></a>
 
+# Hello World <a href=null><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></a> I'm Gbangbola oluwagbemiga, a Frontend developer
 
-<!--
-**Gbangbolaoluwagbemiga/Gbangbolaoluwagbemiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌍  I'm based in Lagos, Nigeria
+- ✉️  You can contact me at [gbangbolaphilip@gmail.com](mailto:gbangbolaphilip@gmail.com)
+- 🧠  I just completed javascript and currently learning ReactJs and React Native
+- 👩‍🔧 👩‍💻 Hydrologist and Software Developer
 
-Here are some ideas to get you started:
+## **Skills :**
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Css" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCss" />
+</p>
+
+## **Socials :**
+
+<p align="left">
+ <a href="https://www.linkedin.com/in/gbangbola-oluwagbemiga-5410b4201/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+ <a href="https://twitter.com/GbangbolaPhilip" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+</p>
