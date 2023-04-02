@@ -2,10 +2,12 @@
 
 # Hello World <a href=null><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></a> I'm Gbangbola oluwagbemiga, a Frontend developer
 
+
+- 🧠  I'm a software developer who loves to build cool things with code. 
+- 👩‍🔧  Currently, I'm focusing on ReactJS and building web applications.
 - 🌍  I'm based in Lagos, Nigeria
 - ✉️  You can contact me at [gbangbolaphilip@gmail.com](mailto:gbangbolaphilip@gmail.com)
-- 🧠  I just completed javascript and currently learning ReactJs and React Native
-- 👩‍🔧 👩‍💻 Hydrologist and Software Developer
+ 👩‍💻   Frontend web Developer
 
 ## **Skills :**
 
