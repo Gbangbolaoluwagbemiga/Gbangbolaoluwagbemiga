@@ -1,8 +1,8 @@
 <a href=null><img src="https://komarev.com/ghpvc/?username=Gbangbolaoluwagbemiga&color=dc143c" align=right></a>
 
-# Hello World <a href=null><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></a> I'm Gbangbola oluwagbemiga, a Frontend developer
+# Hello World <a href=null><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></a> I'm Gbangbola oluwagbemiga.
 
-- 👩‍💻 I'm a software developer who brings your imaginations and dreams into reality.
+- 👩‍💻 I am a frontend developer who brings your imaginations and dreams into reality.
 - 🧠  My ongoing tech stack is ReactJs.
 - 🌍  I'm based in Lagos, Nigeria.
 - ✉️  You can contact me at [gbangbolaphilip@gmail.com](mailto:gbangbolaphilip@gmail.com).
