@@ -3,7 +3,7 @@
 # Hello World <a href=null><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></a> I'm Gbangbola oluwagbemiga.
 
 - 👩‍💻 I am a frontend developer who brings your imaginations and dreams into reality.
-- 🧠  i am currently learnin ReactJs.
+- 🧠  i am currently learning ReactJs.
 
 ## **Tech stack :**
 
