@@ -4,7 +4,7 @@
 
 - 👩‍💻 I am a frontend developer who brings your imaginations and dreams into reality.
 - 🧠 I am currently learning ReactJs🔥.
-- 👨 Pronouns: He/Him.  
+- 👨 Pronoun: He/Him.  
 
 ## **Tech stack :**
 
