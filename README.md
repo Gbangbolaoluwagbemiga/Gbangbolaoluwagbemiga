@@ -3,7 +3,7 @@
 # Hello World <a href=null><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></a>, I'm Gbangbola Oluwagbemiga.
 
 - 👩‍💻 I am a Frontend developer, transforming imaginations into reality. 🚀
-- 🧠 Constantly exploring ReactJS to elevate my skills. Let's create magic! ✨👨.
+- 🧠 Constantly exploring ReactJS to elevate my skills. Let's create magic! ✨.
 - 👨 Pronoun: He/Him.  
 
 ## **Tech stack :**
