@@ -1,6 +1,6 @@
 <a href=null><img src="https://komarev.com/ghpvc/?username=Gbangbolaoluwagbemiga&color=dc143c" align=right></a>
 
-# Hello World <a href=null><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"></a>, I'm Gbangbola Oluwagbemiga.
+# Hello World <a href=null><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="035"></a>, I'm Gbangbola Oluwagbemiga.
 
 - 👩‍💻 I am a Frontend developer, transforming imaginations into reality 🚀.
 - 🧠 Constantly exploring ReactJS to elevate my skills.
