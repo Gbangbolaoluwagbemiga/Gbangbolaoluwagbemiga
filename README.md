@@ -5,7 +5,7 @@
 - 👩‍💻 I am a Frontend developer, transforming imaginations into reality 🚀.
 - 🧠 Constantly exploring ReactJS to elevate my skills.
 - 👨 Pronouns: He/Him.  
-- 👨‍💻 Let's create magic! ✨
+- 👨‍💻 Let's create magic! ✨.
 
 
 ## Tech stack:
