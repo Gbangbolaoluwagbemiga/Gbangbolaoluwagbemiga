@@ -1,4 +1,4 @@
-<a href=null><img src="https://komarev.com/ghpvc/?username=Gbangbolaoluwagbemiga&color=dc143c" align=right></a>.
+<a href=null><img src="https://komarev.com/ghpvc/?username=Gbangbolaoluwagbemiga&color=dc143c" align=right></a>
 
 # Hello World <a href=null><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="035"></a>, I'm Gbangbola Oluwagbemiga.
 
