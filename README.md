@@ -37,4 +37,4 @@
 
 ---
 
-### ⚡ *“Building the bridge between Web2 and Web3 — one line of Rust at a time.”*
+### ⚡ *Building the bridge between Web2 and Web3 — one line of Rust at a time.*
