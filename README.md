@@ -8,7 +8,7 @@
 - 🦀 Currently building with **Rust** and diving deep into **Web3** and **blockchain protocols**.  
 - 💻 Skilled in crafting interactive **frontend interfaces** and decentralized applications.  
 - 🌱 Focused on **learning, building, and contributing** to the Web3 ecosystem.  
-- 👨 Pronouns: **He/Him**  
+- 👨 Pronouns: **He/Him**.
 - ✨ Always open to collaboration and new challenges.  
 
 ---
