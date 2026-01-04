@@ -1,6 +1,6 @@
 <a href=null><img src="https://komarev.com/ghpvc/?username=Gbangbolaoluwagbemiga&color=dc143c" align="right"></a>
 
-# Hey there!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">  
+# Hey there!!!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">  
 ### I'm **Gbangbola Oluwagbemiga**.
 
 🚀 **Frontend & Blockchain Developer** — turning ideas into impactful digital experiences.  
